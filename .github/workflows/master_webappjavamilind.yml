@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'WebAppJavaMilind'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80252061507F4842B391CB8EA85CF6CB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1576656100E54B409F8026A6B924CF31 }}
           package: '*.jar'
